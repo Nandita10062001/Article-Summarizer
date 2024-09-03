@@ -8,6 +8,8 @@ This project encompasses two distinct approaches to summarization: one based on 
    - Extracts titles, authors, publication dates, and key points from any news article.
    - Analyzes the sentiment of the article's content.
    - Simple and user-friendly GUI built with **Tkinter**.
+   ![image](https://github.com/user-attachments/assets/7fc0b38f-3b9c-47f3-a068-7181ccfd9ea4)
+
 
 2. **Abstractive Summarizer with T5:**
    - Generates human-like summaries using the **T5 Transformer model**.
